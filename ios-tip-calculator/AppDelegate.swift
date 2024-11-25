@@ -1,13 +1,12 @@
 //
-//  AppDelegate.swift
-//  ios-tip-calculator
+//  ViewController.swift
+//  Tipsy
 //
-//  Created by Hridayan Phukan on 25/11/24.
-//
+//  Created by Hridayan Phukan
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
